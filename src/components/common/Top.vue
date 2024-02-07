@@ -1,9 +1,10 @@
  <template>
   <div class="topMain">
     <div class="box_center cf">
-      <router-link :to="{ name: 'home' }" class="logo fl"
+      <!-- <router-link :to="{ name: 'home' }" class="logo fl"
         ><img :src="logo" alt="小说精品屋"
-      /></router-link>
+      /></router-link> -->
+      <h1>网络文学管理系统</h1>
       <div class="searchBar fl">
         <div class="search cf">
           <input
